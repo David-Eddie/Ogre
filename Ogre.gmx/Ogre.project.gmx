@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_ogre_mk3</sprite>
     <sprite>sprites\spr_hex</sprite>
+    <sprite>sprites\spr_transparent_hex</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>

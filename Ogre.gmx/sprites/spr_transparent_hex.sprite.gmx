@@ -3,9 +3,9 @@
   <type>0</type>
   <xorig>45</xorig>
   <yorigin>45</yorigin>
-  <colkind>0</colkind>
+  <colkind>1</colkind>
   <coltolerance>0</coltolerance>
-  <sepmasks>-1</sepmasks>
+  <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
   <bbox_left>0</bbox_left>
   <bbox_right>90</bbox_right>
@@ -20,7 +20,6 @@
   <width>91</width>
   <height>91</height>
   <frames>
-    <frame index="0">images\spr_hex_0.png</frame>
-    <frame index="1">images\spr_hex_1.png</frame>
+    <frame index="0">images\spr_transparent_hex_0.png</frame>
   </frames>
 </sprite>
