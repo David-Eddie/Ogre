@@ -9,6 +9,7 @@
     <sprite>sprites\spr_ogre_mk3</sprite>
     <sprite>sprites\spr_hex</sprite>
     <sprite>sprites\spr_transparent_hex</sprite>
+    <sprite>sprites\spr_highlight</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -20,6 +21,8 @@
     <object>objects\obj_hex</object>
     <object>objects\obj_ogre_mk3</object>
     <object>objects\obj_hex_grid</object>
+    <object>objects\obj_highlight</object>
+    <object>objects\obj_counter</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
